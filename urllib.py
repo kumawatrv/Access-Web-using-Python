@@ -6,4 +6,4 @@ for line in fhand:
     print(line.decode().strip())
     
 print("completed")
-print("program completed")
+
